@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/maliheh/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/maliheh/catkin_ws/src/gazebo_ros_joints_publisher/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator/open_manipulator_control_gui/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator/open_manipulator_controller/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator_controls/open_manipulator_controllers/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator_controls/open_manipulator_hw/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator/open_manipulator_libs/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator/open_manipulator_moveit/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator/open_manipulator_teleop/include/**",
+        "/home/maliheh/catkin_ws/src/open_manipulator_dependencies/roboticsgroup_gazebo_plugins/include/**",
+        "/home/maliheh/catkin_ws/src/rosserial/rosserial_server/include/**",
+        "/home/maliheh/catkin_ws/src/rosserial/rosserial_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
